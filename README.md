@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/401JS-iOS/JSbackend.svg?branch=master)](https://travis-ci.org/401JS-iOS/JSbackend)
+[![Build Status](https://travis-ci.org/401JS-iOS/JSbackend.svg?branch=master)](https://travis-ci.org/401JS-iOS/JSbackend) [![Coverage Status](https://coveralls.io/repos/github/ChristopherSClosser/JSbackend/badge.svg?branch=master)](https://coveralls.io/github/ChristopherSClosser/JSbackend?branch=master)
 
 # DEVolunteer
 
